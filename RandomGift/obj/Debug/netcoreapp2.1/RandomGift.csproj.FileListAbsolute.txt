@@ -1,0 +1,19 @@
+C:\Users\RADJI Djawad-Dine.O\source\repos\RandomGift\RandomGift\obj\Debug\netcoreapp2.1\RandomGift.csprojAssemblyReference.cache
+C:\Users\RADJI Djawad-Dine.O\source\repos\RandomGift\RandomGift\obj\Debug\netcoreapp2.1\RandomGift.csproj.CoreCompileInputs.cache
+C:\Users\RADJI Djawad-Dine.O\source\repos\RandomGift\RandomGift\obj\Debug\netcoreapp2.1\RandomGift.AssemblyInfoInputs.cache
+C:\Users\RADJI Djawad-Dine.O\source\repos\RandomGift\RandomGift\obj\Debug\netcoreapp2.1\RandomGift.AssemblyInfo.cs
+C:\Users\RADJI Djawad-Dine.O\source\repos\RandomGift\RandomGift\bin\Debug\netcoreapp2.1\RandomGift.deps.json
+C:\Users\RADJI Djawad-Dine.O\source\repos\RandomGift\RandomGift\bin\Debug\netcoreapp2.1\RandomGift.runtimeconfig.json
+C:\Users\RADJI Djawad-Dine.O\source\repos\RandomGift\RandomGift\bin\Debug\netcoreapp2.1\RandomGift.runtimeconfig.dev.json
+C:\Users\RADJI Djawad-Dine.O\source\repos\RandomGift\RandomGift\bin\Debug\netcoreapp2.1\RandomGift.dll
+D:\RandomGift\RandomGift\bin\Debug\netcoreapp2.1\RandomGift.deps.json
+D:\RandomGift\RandomGift\bin\Debug\netcoreapp2.1\RandomGift.runtimeconfig.json
+D:\RandomGift\RandomGift\bin\Debug\netcoreapp2.1\RandomGift.runtimeconfig.dev.json
+D:\RandomGift\RandomGift\bin\Debug\netcoreapp2.1\RandomGift.dll
+D:\RandomGift\RandomGift\bin\Debug\netcoreapp2.1\RandomGift.pdb
+D:\RandomGift\RandomGift\obj\Debug\netcoreapp2.1\RandomGift.csprojAssemblyReference.cache
+D:\RandomGift\RandomGift\obj\Debug\netcoreapp2.1\RandomGift.csproj.CoreCompileInputs.cache
+D:\RandomGift\RandomGift\obj\Debug\netcoreapp2.1\RandomGift.AssemblyInfoInputs.cache
+D:\RandomGift\RandomGift\obj\Debug\netcoreapp2.1\RandomGift.AssemblyInfo.cs
+D:\RandomGift\RandomGift\obj\Debug\netcoreapp2.1\RandomGift.dll
+D:\RandomGift\RandomGift\obj\Debug\netcoreapp2.1\RandomGift.pdb
